@@ -9,10 +9,10 @@ namespace ValidationUsingRegex
 {
     public  class RegexValidation
     {
-        public static string FIRST_NAME_REGEX = "^[A-Z]{1}[A-Za-z]{3}$";
+      //  public static string FIRST_NAME_REGEX = "^[A-Z]{1}[A-Za-z]{3}$";
        
        
-     //   public static string LAST_NAME_REGEX = "^[A-Z]{1}[A-Za-z}{3}$";
+       public static string LAST_NAME_REGEX = "^[A-Z]{1}[A-Za-z}{3}$";
 
        
        // public static string EMAIL_REGEX = "^[a-z0-9+_.-]+@[A-Z0-9.-]+$";
@@ -24,12 +24,15 @@ namespace ValidationUsingRegex
       //  public static string PASSWORD_REGEX = "^[[A_Z]{1}[A_Za-z][0-9]{1}[./#/@/%]{1]]{8}$";
 
 
-          public  bool validateFirstName()
+        //  public  bool validateFirstName()
+        //{
+        //    return Regex.IsMatch("Teju", FIRST_NAME_REGEX);
+        //}
+
+        public bool validateLastName()
         {
-            return Regex.IsMatch("Teju", FIRST_NAME_REGEX);
+            return Regex.IsMatch("Mate", LAST_NAME_REGEX);
         }
-
-
 
     }
 }
