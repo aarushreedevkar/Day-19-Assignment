@@ -12,7 +12,7 @@
             // Console.WriteLine("lastname"+ "  "    +RegexResult2);
 
             // bool RegexResult3 = regexValidation.validateEmail();
-            // Console.WriteLine("Email" + "  " + RegexResult3);
+            //Console.WriteLine("Email" + "  " + RegexResult3);
 
             //  bool RegexResult4 = regexValidation.validateMobileNumber();
             //Console.WriteLine("MobileNumber" + "  " + RegexResult4);
