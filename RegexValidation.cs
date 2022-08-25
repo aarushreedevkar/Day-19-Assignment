@@ -21,7 +21,7 @@ namespace ValidationUsingRegex
        // public static string MOBILENUMBER_REGEX = "^[+91]{1}[6-9]{1}[0-9]{9}$";
 
 
-       public static string PASSWORD_REGEX = "^[[A_Z]{1}[A_Za-z][0-9]{1}[@]{1}]{8}$";
+       public static string PASSWORD_REGEX = "^[[A_Z]{1}[A_Za-z][0-9]{1}[/#./@]{1}]{8}$";
 
 
         //  public  bool validateFirstName()
