@@ -12,10 +12,10 @@ namespace ValidationUsingRegex
       //  public static string FIRST_NAME_REGEX = "^[A-Z]{1}[A-Za-z]{3}$";
        
        
-       public static string LAST_NAME_REGEX = "^[A-Z]{1}[A-Za-z}{3}$";
+      // public static string LAST_NAME_REGEX = "^[A-Z]{1}[A-Za-z}{3}$";
 
        
-       // public static string EMAIL_REGEX = "^[a-z0-9+_.-]+@[A-Z0-9.-]+$";
+        public static string EMAIL_REGEX = "^[a-z0-9+_.-]+@[A-Z0-9.-]+$";
 
 
       //  public static string MOBILENUMBER_REGEX = "^[+91]{1}[6-9]{1}[0-9]{9}$";
@@ -29,9 +29,14 @@ namespace ValidationUsingRegex
         //    return Regex.IsMatch("Teju", FIRST_NAME_REGEX);
         //}
 
-        public bool validateLastName()
+        //public bool validateLastName()
+        //{
+        //    return Regex.IsMatch("Mate", LAST_NAME_REGEX);
+        //}
+       
+        public bool validateEmail()
         {
-            return Regex.IsMatch("Mate", LAST_NAME_REGEX);
+            return Regex.IsMatch("jyotihage10@gmail.com", EMAIL_REGEX);
         }
 
     }

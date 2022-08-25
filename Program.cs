@@ -8,8 +8,11 @@
             //  bool RegexResult1 = regexValidation.validateFirstName();
             // Console.WriteLine("firstname"+ " "  +RegexResult1);
 
-            bool RegexResult2 = regexValidation.validateLastName();
-            Console.WriteLine("lastname"+ "  "    +RegexResult2);
+           // bool RegexResult2 = regexValidation.validateLastName();
+           // Console.WriteLine("lastname"+ "  "    +RegexResult2);
+
+            bool RegexResult3 = regexValidation.validateEmail();
+            Console.WriteLine("Email" + "  " + RegexResult3);
         }
     }
 }
