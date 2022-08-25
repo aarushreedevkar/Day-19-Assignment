@@ -1,0 +1,15 @@
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\bin\Debug\net6.0\ValidationUsingRegex.exe
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\bin\Debug\net6.0\ValidationUsingRegex.deps.json
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\bin\Debug\net6.0\ValidationUsingRegex.runtimeconfig.json
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\bin\Debug\net6.0\ValidationUsingRegex.dll
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\bin\Debug\net6.0\ValidationUsingRegex.pdb
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.AssemblyInfo.cs
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.dll
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\refint\ValidationUsingRegex.dll
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.pdb
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ValidationUsingRegex.genruntimeconfig.cache
+C:\Users\test\Desktop\BridgelabzTutorials\ValidationUsingRegex\ValidationUsingRegex\obj\Debug\net6.0\ref\ValidationUsingRegex.dll
